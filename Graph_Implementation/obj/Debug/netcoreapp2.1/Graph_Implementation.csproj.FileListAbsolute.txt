@@ -1,0 +1,10 @@
+/Users/busra/Projects/GithubRepos/Data-Structures/Graph_Implementation/bin/Debug/netcoreapp2.1/Graph_Implementation.deps.json
+/Users/busra/Projects/GithubRepos/Data-Structures/Graph_Implementation/bin/Debug/netcoreapp2.1/Graph_Implementation.runtimeconfig.json
+/Users/busra/Projects/GithubRepos/Data-Structures/Graph_Implementation/bin/Debug/netcoreapp2.1/Graph_Implementation.runtimeconfig.dev.json
+/Users/busra/Projects/GithubRepos/Data-Structures/Graph_Implementation/bin/Debug/netcoreapp2.1/Graph_Implementation.dll
+/Users/busra/Projects/GithubRepos/Data-Structures/Graph_Implementation/bin/Debug/netcoreapp2.1/Graph_Implementation.pdb
+/Users/busra/Projects/GithubRepos/Data-Structures/Graph_Implementation/obj/Debug/netcoreapp2.1/Graph_Implementation.csproj.CoreCompileInputs.cache
+/Users/busra/Projects/GithubRepos/Data-Structures/Graph_Implementation/obj/Debug/netcoreapp2.1/Graph_Implementation.AssemblyInfoInputs.cache
+/Users/busra/Projects/GithubRepos/Data-Structures/Graph_Implementation/obj/Debug/netcoreapp2.1/Graph_Implementation.AssemblyInfo.cs
+/Users/busra/Projects/GithubRepos/Data-Structures/Graph_Implementation/obj/Debug/netcoreapp2.1/Graph_Implementation.dll
+/Users/busra/Projects/GithubRepos/Data-Structures/Graph_Implementation/obj/Debug/netcoreapp2.1/Graph_Implementation.pdb

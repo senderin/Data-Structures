@@ -5,7 +5,7 @@ namespace Graph_Implementation
     {
         static void Main(string[] args)
         {
-            string filePath = "TestFile.txt";
+            string filePath = "src/TestFile.txt";
             File file = new File(filePath, false);
             Graph graph = new Graph(GraphType.DIRECTED, DistanceType.UNWEIGHTED);
             graph.CreateGraphFromFile(file, ',');

@@ -33,6 +33,7 @@ namespace Graph_Implementation
             }
             catch (Exception exception)
             {
+                Console.WriteLine(exception.Message);
                 return false;
             }
         }
