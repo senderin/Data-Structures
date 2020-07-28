@@ -116,6 +116,24 @@ namespace Graph_Implementation
             }
         }
 
+
+        public float[,] GetAdjacencyMatrix() {
+            float[,] adjacencyMatrix = new float[nodes.Count, nodes.Count];
+            for(int i = 0; i < nodes.Count; i++) {
+                for (int j = 0; j < nodes.Count; j++)
+                {
+                    adjacencyMatrix[i, j] = float.PositiveInfinity;
+                }
+            }
+
+            foreach (Edge edge in edges) {
+                int startIndex = nodes.FindIndex(x => x == edge.start);
+                int endIndex = nodes.FindIndex(x => x == edge.end);
+                adjacencyMatrix[startIndex, endIndex] = edge.weight;
+            }
+
+            return adjacencyMatrix;
+        }
     }
 
 

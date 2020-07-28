@@ -1,10 +1,11 @@
 ﻿<Properties StartupConfiguration="{4CE4B731-E7A8-4395-803F-0785EF23D0E8}|Default">
   <MonoDevelop.Ide.ItemProperties.Graph__Implementation PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="src/File.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/Graph.cs">
     <Files>
-      <File FileName="src/Test.cs" Line="18" Column="1" />
+      <File FileName="src/Test.cs" Line="8" Column="36" />
       <File FileName="src/Node.cs" Line="22" Column="32" />
-      <File FileName="src/File.cs" Line="43" Column="1" />
+      <File FileName="src/File.cs" Line="39" Column="1" />
+      <File FileName="src/Graph.cs" Line="120" Column="16" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
