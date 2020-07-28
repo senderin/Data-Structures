@@ -8,3 +8,4 @@
 /Users/busra/Projects/GithubRepos/Data-Structures/Graph_Implementation/obj/Debug/netcoreapp2.1/Graph_Implementation.AssemblyInfo.cs
 /Users/busra/Projects/GithubRepos/Data-Structures/Graph_Implementation/obj/Debug/netcoreapp2.1/Graph_Implementation.dll
 /Users/busra/Projects/GithubRepos/Data-Structures/Graph_Implementation/obj/Debug/netcoreapp2.1/Graph_Implementation.pdb
+/Users/busra/Projects/GithubRepos/Data-Structures/Graph_Implementation/obj/Debug/netcoreapp2.1/Graph_Implementation.csprojAssemblyReference.cache

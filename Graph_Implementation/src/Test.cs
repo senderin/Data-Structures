@@ -12,6 +12,10 @@ namespace Graph_Implementation
 
             graph.WriteNodes();
             graph.WriteEdges();
+
+            float[,] adjacencyMatrix = graph.GetAdjacencyMatrix();
+            graph.WriteAdjacencyMatrix(adjacencyMatrix);
+
         }
     }
 }
